@@ -1,0 +1,6 @@
+{
+  "name": "GrammarLens - AI Grammar Correction Tool",
+  "description": "Full-stack AI grammar, spelling, and sentence-structure checker with inline error highlighting, popover corrections, diff view, and mistake analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
